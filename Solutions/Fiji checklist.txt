@@ -1,0 +1,15 @@
+Destination: Fiji
+Packing List: 
+clothes
+food
+makeup
+phone
+shoes
+bikini
+cat
+charger
+Tasks: 
+toilet
+lock door
+boarding pass
+eat

@@ -1,0 +1,8 @@
+Destination: Rome
+Packing List: 
+Bread
+Ham
+Cheese
+Tasks: 
+Pack Bag
+Pack Passport
